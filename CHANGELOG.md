@@ -1,10 +1,9 @@
 # Changelog
 
-## V1 — 2026-09-25
-- Complete URBANEON streetwear storefront.
-- Premium dark/neon visual system inspired by the supplied reference architecture.
-- 16 local product assets and 16 product detail pages.
-- Search, filtering, sorting, cart, quantity controls and wishlist.
-- Responsive navigation and mobile layout.
-- Collections, New Drops, Lookbook, Guides and support/legal pages.
-- Favicon, manifest, robots.txt and sitemap.
+## V2 — 2026-09-25
+- Refined product-image presentation without changing the approved layout.
+- Centered product photography consistently with `object-position: center`.
+- Added slightly more internal image breathing room so products sit naturally inside their cards.
+- Centered category photography and prevented edge-cropping in category tiles.
+- Increased desktop product-media height slightly for a cleaner visual balance.
+- Kept the existing catalog, interactions, pages and branding unchanged.
