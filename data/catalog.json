@@ -1,0 +1,307 @@
+[
+  {
+    "id": "p01",
+    "name": "Neon Core Hoodie",
+    "category": "Hoodies",
+    "price": 69.99,
+    "rating": 4.8,
+    "reviews": 128,
+    "badge": "New",
+    "image": "assets/images/products/p01.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p02",
+    "name": "Urban Force Sneakers",
+    "category": "Sneakers",
+    "price": 109.99,
+    "rating": 4.9,
+    "reviews": 203,
+    "badge": "Best Seller",
+    "image": "assets/images/products/p02.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p03",
+    "name": "Tech Cargo Pants",
+    "category": "Pants",
+    "price": 64.99,
+    "rating": 4.7,
+    "reviews": 96,
+    "badge": "Featured",
+    "image": "assets/images/products/p03.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p04",
+    "name": "Essential Logo Tee",
+    "category": "T-Shirts",
+    "price": 34.99,
+    "rating": 4.8,
+    "reviews": 186,
+    "badge": "Core",
+    "image": "assets/images/products/p04.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p05",
+    "name": "Core Snapback Cap",
+    "category": "Accessories",
+    "price": 29.99,
+    "rating": 4.8,
+    "reviews": 121,
+    "badge": "Best Seller",
+    "image": "assets/images/products/p05.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p06",
+    "name": "Velocity Sunglasses",
+    "category": "Accessories",
+    "price": 39.99,
+    "rating": 4.6,
+    "reviews": 88,
+    "badge": "New",
+    "image": "assets/images/products/p06.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p07",
+    "name": "Varsity Street Jacket",
+    "category": "Jackets",
+    "price": 89.99,
+    "rating": 4.7,
+    "reviews": 98,
+    "badge": "New",
+    "image": "assets/images/products/p07.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p08",
+    "name": "Urban Force Low Sneakers",
+    "category": "Sneakers",
+    "price": 119.99,
+    "rating": 4.8,
+    "reviews": 142,
+    "badge": "New",
+    "image": "assets/images/products/p08.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p09",
+    "name": "Utility Cargo 2.0",
+    "category": "Pants",
+    "price": 59.99,
+    "rating": 4.6,
+    "reviews": 87,
+    "badge": "Everyday",
+    "image": "assets/images/products/p09.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p10",
+    "name": "Studio Oversized Tee",
+    "category": "T-Shirts",
+    "price": 39.99,
+    "rating": 4.7,
+    "reviews": 76,
+    "badge": "New",
+    "image": "assets/images/products/p10.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p11",
+    "name": "Neon Logo Cap",
+    "category": "Accessories",
+    "price": 34.99,
+    "rating": 4.8,
+    "reviews": 145,
+    "badge": "Drop",
+    "image": "assets/images/products/p11.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p12",
+    "name": "Urban Windbreaker",
+    "category": "Jackets",
+    "price": 79.99,
+    "rating": 4.7,
+    "reviews": 62,
+    "badge": "New",
+    "image": "assets/images/products/p12.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p13",
+    "name": "Street Vision Sunglasses",
+    "category": "Accessories",
+    "price": 42.99,
+    "rating": 4.6,
+    "reviews": 94,
+    "badge": "Essential",
+    "image": "assets/images/products/p13.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p14",
+    "name": "Urban Tech Backpack",
+    "category": "Bags",
+    "price": 59.99,
+    "rating": 4.8,
+    "reviews": 118,
+    "badge": "Utility",
+    "image": "assets/images/products/p14.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p15",
+    "name": "Women's Crop Hoodie",
+    "category": "Women's",
+    "price": 54.99,
+    "rating": 4.7,
+    "reviews": 47,
+    "badge": "New",
+    "image": "assets/images/products/p15.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  },
+  {
+    "id": "p16",
+    "name": "Neo Runner Sneakers",
+    "category": "Sneakers",
+    "price": 99.99,
+    "rating": 4.8,
+    "reviews": 112,
+    "badge": "Limited",
+    "image": "assets/images/products/p16.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Electric Blue"
+    ]
+  }
+]
