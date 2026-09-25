@@ -1,9 +1,8 @@
 # Changelog
 
-## V2 — 2026-09-25
-- Refined product-image presentation without changing the approved layout.
-- Centered product photography consistently with `object-position: center`.
-- Added slightly more internal image breathing room so products sit naturally inside their cards.
-- Centered category photography and prevented edge-cropping in category tiles.
-- Increased desktop product-media height slightly for a cleaner visual balance.
-- Kept the existing catalog, interactions, pages and branding unchanged.
+## V3 — 2026-09-25
+- Corrected the actual image-source problem found in V2.
+- Removed product screenshots containing baked-in badges, wishlist icons, side rails and promotional UI.
+- Reassigned affected products to clean product photography and reframed the remaining sneaker image.
+- Added clean Pexels photography for jacket, sunglasses and backpack entries.
+- Kept the approved URBANEON design, catalog structure and ecommerce interactions intact.

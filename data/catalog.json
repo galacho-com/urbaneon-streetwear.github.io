@@ -218,7 +218,7 @@
     "rating": 4.7,
     "reviews": 62,
     "badge": "New",
-    "image": "assets/images/products/p12.jpg",
+    "image": "https://images.pexels.com/photos/9286989/pexels-photo-9286989.jpeg?cs=srgb&dl=pexels-keen-61828480-9286989.jpg&fm=jpg",
     "sizes": [
       "S",
       "M",
@@ -238,7 +238,7 @@
     "rating": 4.6,
     "reviews": 94,
     "badge": "Essential",
-    "image": "assets/images/products/p13.jpg",
+    "image": "https://images.pexels.com/photos/9726110/pexels-photo-9726110.jpeg?cs=srgb&dl=pexels-titouhwayne-9726110.jpg&fm=jpg",
     "sizes": [
       "One Size"
     ],
@@ -255,7 +255,7 @@
     "rating": 4.8,
     "reviews": 118,
     "badge": "Utility",
-    "image": "assets/images/products/p14.jpg",
+    "image": "https://images.pexels.com/photos/13869858/pexels-photo-13869858.jpeg?cs=srgb&dl=pexels-bertellifotografia-13869858.jpg&fm=jpg",
     "sizes": [
       "One Size"
     ],
