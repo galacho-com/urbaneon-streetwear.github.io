@@ -30,3 +30,6 @@ HTML5 · CSS3 · Vanilla JavaScript · JSON · SVG · GitHub Pages compatible
 Payment, inventory, authentication and fulfillment are not connected in this front-end demo.
 
 © 2026 URBANEON. All rights reserved.
+
+## V4 quality pass
+V4 follows the supplied reference store's editorial structure: strong hero, trust strip, spacious sections, structured cards, clear catalog hierarchy, and a dark utility footer. All sixteen product images are local, cleaned and centered; embedded screenshot UI has been removed from the product photography.
